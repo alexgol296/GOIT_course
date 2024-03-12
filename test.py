@@ -1,2 +1,3 @@
-name = input("What is your name? ")
-print(f"Hello {name}")
+login = input ("Enter your login: ")
+print(login)
+
